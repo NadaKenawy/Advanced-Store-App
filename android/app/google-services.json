@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882697319916",
+    "project_id": "advanced-store-app",
+    "storage_bucket": "advanced-store-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882697319916:android:a0b3167a9f06bc9659fcc9",
+        "android_client_info": {
+          "package_name": "com.example.advanced_store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSXSuGAcbPnbjp3b640Zz4DVQ5W54eIns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
