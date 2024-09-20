@@ -1,4 +1,4 @@
-import 'package:advanced_store_app/core/images/app_images.dart';
+import 'package:advanced_store_app/core/style/images/app_images.dart';
 import 'package:flutter/material.dart';
 
 class NoNetworkScreen extends StatelessWidget {
